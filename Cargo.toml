@@ -6,7 +6,7 @@ authors = ["Huo Linhe <linhehuo@gmail.com>"]
 description = """
 Protobuf Types for Prometheus Remote Read/Write, from TAOS Data Inc. - the creator of TDengine.
 """
-license = "MIT OR APACHE-2.0"
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
